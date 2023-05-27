@@ -19,5 +19,17 @@ make cp
 If you are on Linux, you can install it with:
 
 ```bash
+git clone https://github.com/kalogs-c/tem.git
+
+cd tem
+
 make build
+```
+
+You can delete the folder after install it.
+
+```bash
+cd ..
+
+rm -rf tem
 ```
